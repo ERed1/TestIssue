@@ -1,0 +1,2 @@
+tests\base\BaseTest.class
+tests\mail\positive\AttachmentFileInMailEqualsPositiveTest.class

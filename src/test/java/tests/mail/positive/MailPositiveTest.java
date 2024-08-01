@@ -13,7 +13,7 @@ import static constans.Constant.Directory.OUTPUT_PATH;
 import static constans.Constant.Urls.MAIN_MAIL_PAGE_URL;
 import static org.junit.Assert.assertTrue;
 
-public class AttachmentFileInMailEqualsPositiveTest extends BaseTest {
+public class MailPositiveTest extends BaseTest {
 
     @Test
     public void AttachmentFileInMailEqualsPositiveTest() {
@@ -49,7 +49,7 @@ public class AttachmentFileInMailEqualsPositiveTest extends BaseTest {
         try {
             FileUtils.waitFor(fileDownload, 10);
             Assertions.assertTrue(FileUtils.contentEquals(fileSend, fileDownload), "The files differ");
-            FileUtils.delete(fileDownload);
+            //FileUtils.delete(fileDownload);
         } catch (IOException e) {
             e.printStackTrace();
         }

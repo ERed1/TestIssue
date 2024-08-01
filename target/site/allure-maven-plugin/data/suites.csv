@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","16981","AttachmentFileInMailEqualsPositiveTest()","","Thu Aug 01 18:25:33 MSK 2024","passed","Thu Aug 01 18:25:50 MSK 2024","","tests.mail.positive.AttachmentFileInMailEqualsPositiveTest","tests.mail.positive.AttachmentFileInMailEqualsPositiveTest","AttachmentFileInMailEqualsPositiveTest"

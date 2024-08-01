@@ -1,0 +1,14 @@
+constans\Constant$AuthData.class
+constans\Constant$TestData.class
+common\User.class
+pages\base\BasePage.class
+common\Config.class
+constans\Constant.class
+constans\Constant$Urls.class
+constans\Constant$Directory.class
+pages\mail\SignInPages.class
+constans\Constant$TimeoutVariables.class
+pages\mail\MainMailPage.class
+common\CommonActions.class
+pages\mail\NewLetterPage.class
+pages\mail\MailBodyViewPage.class
