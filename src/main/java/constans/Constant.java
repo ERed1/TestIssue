@@ -13,11 +13,6 @@ public class Constant {
         public static final String MAIN_MAIL_PAGE_URL = "https://mail.google.com/";
     }
 
-    public static class AuthData {
-        public static final String LOGIN = "chudogashevilya@gmail.com";
-        public static final String PASSWORD = "Ac22081966";
-    }
-
     public static class TestData {
         public static final String TESTING_TEXT = "TestingText";
     }
