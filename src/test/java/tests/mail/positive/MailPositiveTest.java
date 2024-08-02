@@ -11,7 +11,6 @@ import java.io.IOException;
 import static constans.Constant.Directory.INPUT_PATH;
 import static constans.Constant.Directory.OUTPUT_PATH;
 import static constans.Constant.Urls.MAIN_MAIL_PAGE_URL;
-import static org.junit.Assert.assertTrue;
 
 public class MailPositiveTest extends BaseTest {
 

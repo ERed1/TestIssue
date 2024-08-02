@@ -30,7 +30,7 @@ public class BaseTest {
     protected NewLetterPage newLetterPage  = new NewLetterPage(driver);
     protected MailBodyViewPage mailBodyViewPage  = new MailBodyViewPage(driver);
     protected Actions action = new Actions(driver);
-    protected User user = new User("chudogashevilya@gmail.com", "Ac22081966.");
+    protected User user = new User("", "");
 
     @AfterEach
     void clearCookiesAndLocalStorage() {
